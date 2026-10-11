@@ -1,0 +1,5 @@
+numpy==2.5.3
+scipy==1.18.1
+sympy==1.14.0
+mpmath==1.3.0
+# Python 3.13 (reference run: CPython 3.13.16, Linux x86_64)
